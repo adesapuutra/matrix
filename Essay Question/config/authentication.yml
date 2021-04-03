@@ -1,0 +1,13 @@
+
+#User Services Autentication
+MOCK:
+  user: "admin"
+  pass: "admin"
+
+QA:
+  user: ""
+  pass: ""
+
+PROD:
+  user: ""
+  pass: ""

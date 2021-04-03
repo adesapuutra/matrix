@@ -1,0 +1,5 @@
+1. integer, float or double
+2. char and string
+3. 113
+4. 2
+5. 3566GoldenStreetMiami

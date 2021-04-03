@@ -1,0 +1,5 @@
+1. It’s a test that sometimes fails, but if you retry it enough times, it passes, eventually.
+2. Use the wait methods like ThreadSleep, Implicit Wait, Explicit wait, webdriverwait, or fluent wait. 
+3. 1. Ask developer to disable the CAPTCHA module in testing environment
+   2. Ask developer to configure the CAPTCHA in testing environment in such a way it will always accept 1 specific value
+   3. Give a delay and enter the CAPTCHA manually
